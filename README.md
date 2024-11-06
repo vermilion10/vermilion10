@@ -11,6 +11,12 @@
 # Tech Stack
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nix.dev/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/) [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 # GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=vermilion10&theme=radical&hide_border=false&include_all_commits=true&count_private=false)](https://)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=vermilion10&theme=radical&hide_border=false)](https://)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermilion10&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vermilion10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vermilion10&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vermilion10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
