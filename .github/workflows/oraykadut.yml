@@ -1,7 +1,7 @@
 name: generate animation of ular kadut ngadahar titik hejo kontribusi
 
 on:
-  # run automatically every 6 hours
+  # run automatically every 2 hours
   schedule:
     - cron: "0 */2 * * *" 
   
