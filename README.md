@@ -2,7 +2,7 @@
 - I’m a student from wkwkland
 - I’m currently learning about pseudocode
 - Ask me about motor kopling
-- Fun fact my wuwa acc level 80 rn
+- Fun fact not fun anymore
 
 
 ## Socials
