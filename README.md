@@ -1,7 +1,7 @@
 # About Me
 - I’m a student from wkwkland
 - I’m currently learning about pseudocode
-- Ask me about motor kopling
+- Ask me about hidup, i will answer with "adu nasip?"
 - Fun fact not fun anymore
 
 
