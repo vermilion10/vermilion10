@@ -2,7 +2,6 @@
 - I’m a student from wkwkland
 - I’m currently learning about pseudocode
 - Ask me about hidup, i will answer with "adu nasip bos?"
-- Fun fact not fun anymore zzz
 
 
 ## Socials
