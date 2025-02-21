@@ -1,7 +1,7 @@
 # vermilion10
 
 </p>
-<img align="right" width="10%" src="/media/akiwave.png">
+<img align="right" width="15%" src="/media/akiwave.png">
 <p>
 
 *Hello! i'm ~~emu otori~~ [vermilion10](https://github.com/vermilion10)*
