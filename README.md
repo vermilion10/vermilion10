@@ -8,9 +8,9 @@
 
 <img align="right" width="10%" src="/media/akiwave.png">
 
-*Hello! i'm [vermilion10](https://vermilion10-portfolio.pages.dev/)*
-- I’m a 2nd Year Informatic student
-- I’m currently learning about Pseudocode
+<img align="left" width="10%" src="https://patchwiki.biligame.com/images/zspms/7/79/f1fv7db11lsr0dfsqeocq1dd68iy9s5.png"> 
+
+<h3 align="center"><i>hi!</i></h3>
 
 <p align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CF0303&section=footer"  />
